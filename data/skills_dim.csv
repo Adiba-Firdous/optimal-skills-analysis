@@ -1,0 +1,48 @@
+skill_id,skills,type
+1,SQL,programming
+2,Python,programming
+3,Excel,analyst_tool
+4,Power BI,analyst_tool
+5,Tableau,analyst_tool
+6,R,programming
+7,Pandas,library
+8,NumPy,library
+9,Matplotlib,library
+10,Statistics,statistics
+11,Power Query,analyst_tool
+12,DAX,programming
+13,MySQL,database
+14,PostgreSQL,database
+15,SQL Server,database
+16,AWS,cloud
+17,Azure,cloud
+18,GCP,cloud
+19,Snowflake,data_platform
+20,BigQuery,data_platform
+21,Databricks,data_platform
+22,Spark,big_data
+23,PySpark,big_data
+24,ETL,data_engineering
+25,Data Visualization,analyst_tool
+26,Machine Learning,machine_learning
+27,Scikit-learn,machine_learning
+28,Git,developer_tool
+29,GitHub,developer_tool
+30,Jupyter,developer_tool
+31,Alteryx,analyst_tool
+32,Looker,analyst_tool
+33,Airflow,data_engineering
+34,dbt,data_engineering
+35,Data Cleaning,other
+36,Data Modeling,other
+37,Data Warehousing,data_engineering
+38,A/B Testing,statistics
+39,Forecasting,statistics
+40,Regression,statistics
+41,NLP,machine_learning
+42,LLMs,ai
+43,Generative AI,ai
+44,PowerPoint,business
+45,Communication,business
+46,Business Analysis,business
+47,Requirements Gathering,business

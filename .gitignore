@@ -1,0 +1,4 @@
+.vscode/
+*.session.sql
+*.log
+.env
